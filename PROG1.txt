@@ -8,3 +8,13 @@ mesa - https://dle.rae.es/mesa
 puerta - https://dle.rae.es/puerta
 escuela - https://dle.rae.es/escuela
 ordenador - https://dle.rae.es/ordenador
+grapadora - https://dle.rae.es/grapadora?m=form
+neceser - https://dle.rae.es/neceser?m=form
+rumor - https://dle.rae.es/rumor?m=form
+huella - https://dle.rae.es/huella?m=form
+tormenta - https://dle.rae.es/tormenta?m=form
+vértigo - https://dle.rae.es/v%C3%A9rtigo
+silencio - https://dle.rae.es/silencio?m=form
+sospecha - https://dle.rae.es/sospecha?m=form
+desastre - https://dle.rae.es/desastre?m=form
+sombra - https://dle.rae.es/sombra?m=form
